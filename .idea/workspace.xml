@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65bd3780-d7e9-489b-92a8-fd27b942022e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="AD@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="AD@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="AD@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="AD: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="AD@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="AD: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="AD@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="AD: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="AD@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="AD: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="AD@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="AD: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="alien: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VCCiHTqlxiDFHr9lTIuR4hxUmI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/META-INF" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Z004506P\Documents\GitHub\jpa-demo\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.znamenacek.jakub.Main" />
+      <module name="jpa-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.znamenacek.jakub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:AD@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65bd3780-d7e9-489b-92a8-fd27b942022e" name="Default Changelist" comment="" />
+      <created>1576747815457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576747815457</updated>
+      <workItem from="1576747817050" duration="7803000" />
+      <workItem from="1576827233381" duration="599000" />
+      <workItem from="1576828291938" duration="1195000" />
+      <workItem from="1577951121237" duration="9725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576759828123">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state x="393" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1576759828123" />
+    <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578074730178">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1578074730178" />
+    <state width="1547" height="301" key="GridCell.Tab.0.bottom" timestamp="1579103669088">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state width="1547" height="244" key="GridCell.Tab.0.bottom/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@-1920.11.1603.962" timestamp="1576766182162" />
+    <state width="1547" height="301" key="GridCell.Tab.0.bottom/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1579103669088" />
+    <state width="1547" height="301" key="GridCell.Tab.0.center" timestamp="1579103669087">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state width="1547" height="244" key="GridCell.Tab.0.center/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@-1920.11.1603.962" timestamp="1576766182162" />
+    <state width="1547" height="301" key="GridCell.Tab.0.center/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1579103669087" />
+    <state width="1547" height="301" key="GridCell.Tab.0.left" timestamp="1579103669087">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state width="1547" height="244" key="GridCell.Tab.0.left/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@-1920.11.1603.962" timestamp="1576766182161" />
+    <state width="1547" height="301" key="GridCell.Tab.0.left/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1579103669087" />
+    <state width="1547" height="301" key="GridCell.Tab.0.right" timestamp="1579103669087">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state width="1547" height="244" key="GridCell.Tab.0.right/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@-1920.11.1603.962" timestamp="1576766182162" />
+    <state width="1547" height="301" key="GridCell.Tab.0.right/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1579103669087" />
+    <state width="1547" height="301" key="GridCell.Tab.1.bottom" timestamp="1579103669088">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state width="1547" height="301" key="GridCell.Tab.1.bottom/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1579103669088" />
+    <state width="1547" height="301" key="GridCell.Tab.1.center" timestamp="1579103669088">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state width="1547" height="301" key="GridCell.Tab.1.center/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1579103669088" />
+    <state width="1547" height="301" key="GridCell.Tab.1.left" timestamp="1579103669088">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state width="1547" height="301" key="GridCell.Tab.1.left/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1579103669088" />
+    <state width="1547" height="301" key="GridCell.Tab.1.right" timestamp="1579103669088">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state width="1547" height="301" key="GridCell.Tab.1.right/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1579103669088" />
+    <state x="455" y="309" width="947" height="441" key="com.intellij.ide.util.TipDialog" timestamp="1577951771336">
+      <screen x="0" y="0" width="1603" height="962" />
+    </state>
+    <state x="455" y="309" width="947" height="441" key="com.intellij.ide.util.TipDialog/1920.122.1603.862/0.0.1603.962/-1920.11.1603.962@0.0.1603.962" timestamp="1577951771336" />
+  </component>
+</project>
