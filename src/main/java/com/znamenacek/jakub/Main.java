@@ -1,13 +1,10 @@
 package com.znamenacek.jakub;
 
-import com.znamenacek.jakub.model.Employee;
 import com.znamenacek.jakub.service.EmployeeService;
-import org.hibernate.tool.schema.internal.exec.ScriptTargetOutputToFile;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
-import javax.persistence.TypedQuery;
 
 public class Main {
     public static void main(String[] args) {
@@ -25,7 +22,7 @@ public class Main {
 
         System.out.println("PRINT");
         System.out.println("bylo nalezeno "+employeeService.getAllEmployees().size()+" zamestnancu");
-        employeeService.getAllEmployees().stream().forEach(System.out::println);
+        employeeService.getAllEmployees().forEach(System.out::println);
 
         System.out.println("DELETE"); // working
         em.getTransaction().begin();
@@ -33,7 +30,7 @@ public class Main {
         em.getTransaction().commit();
 
         System.out.println("PRINT");
-        employeeService.getAllEmployees().stream().forEach(System.out::println);
+        employeeService.getAllEmployees().forEach(System.out::println);
 
         System.out.println("RAISE SALARY");
         em.getTransaction().begin();

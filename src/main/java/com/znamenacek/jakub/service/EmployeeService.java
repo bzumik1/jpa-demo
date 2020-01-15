@@ -3,14 +3,12 @@ package com.znamenacek.jakub.service;
 import com.znamenacek.jakub.model.Employee;
 
 import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
 import javax.persistence.TypedQuery;
 import java.util.List;
 import java.util.Optional;
 
 public class EmployeeService {
-    EntityManager em;
+    private final EntityManager em;
 
     public EmployeeService(EntityManager em){
         this.em = em;
@@ -30,7 +28,7 @@ public class EmployeeService {
     }
 
     public void deleteEmployeeById(Integer id){
-        getEmployeeById(id).ifPresent(employee -> em.remove(employee));
+        getEmployeeById(id).ifPresent(em::remove);
     }
 
     public void raiseEmployeeSalary(Integer id, Integer raise){
