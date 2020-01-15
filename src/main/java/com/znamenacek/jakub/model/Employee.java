@@ -1,4 +1,4 @@
-package com.znamenacek.jakub;
+package com.znamenacek.jakub.model;
 
 import lombok.*;
 
