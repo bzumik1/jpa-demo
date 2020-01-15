@@ -19,7 +19,9 @@ public class Main {
         //persist entity
         em.getTransaction().begin(); //starts transaction
         em.persist(employee01);
-        em.persist(employee02);
+//        em.persist(employee02);
+//        em.persist(new Employee(3,"Lukas",1));
+//        em.persist(new Employee(4,"Honza",100));
         em.getTransaction().commit(); //ends transaction
 
 
@@ -46,7 +48,7 @@ public class Main {
         em.getTransaction().commit(); //ends transaction
 
         //query example
-        TypedQuery<Employee> query = em.createQuery("SELECT employee FROM Employee employee", Employee.class); // employee is variable
+        TypedQuery<String> query = em.createQuery("SELECT employee.name FROM Employee employee", String.class); // employee is variable
         //List<Employee> employees = query.getResultList();
         System.out.println("QUERY");
         query.getResultStream().forEach(System.out::println);
